@@ -33,3 +33,4 @@ print("Topic: add local repo to github")
 #if we are working on a long project then we don't want to write "git push origin main" again and again
 #so using the "-u" flag for the first time, will make "git push" work as "git push origin main"
 #so for the first time instead of "git push origin main", we can use "git push -u origin main".
+#from the next time we can simply use "git push" now
